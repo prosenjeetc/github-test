@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test stash
 Jeet
 starting...
@@ -9,3 +10,6 @@ branch change
 <<<<<<< HEAD
 testing branch auto-update-1234
 adding line
+=======
+This is changed in github
+>>>>>>> 7110ab4f188311e660219fa235e3f568cfa83035
