@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 starting...
 hello
 world
-=======
 world-this is a conflict
 branch change
 >>>>>>> mastersec
 <<<<<<< HEAD
 testing branch auto-update-1234
->>>>>>> child
 adding line
