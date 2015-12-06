@@ -6,5 +6,5 @@ world
 world
 branch change
 >>>>>>> mastersec
-testing branch auto-update
+testing branch auto-update-1234
 adding line
