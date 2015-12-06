@@ -6,5 +6,7 @@ world
 world-this is a conflict
 branch change
 >>>>>>> mastersec
-testing branch auto-update 7890
+<<<<<<< HEAD
+testing branch auto-update-1234
+>>>>>>> child
 adding line
